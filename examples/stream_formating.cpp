@@ -4,7 +4,7 @@
 
 int main(int argc, char* argv[])
 {
-	SetConsoleTitle("Color list");
+    SetConsoleTitle("Color list");
 
     using namespace wc::helpers;
     using std::cout;
