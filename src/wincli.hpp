@@ -9,7 +9,7 @@
 #include <windows.h>
 
 #include "colors\wincolor.hpp"
-#include "../"
+#include ""
 
 namespace wc {
 }
