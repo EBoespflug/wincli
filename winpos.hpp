@@ -5,4 +5,4 @@ namespace wc {
 
 }
 
-#endif // guard : WINCLI_WINPOS_HPP
+#endif // guard : WINCLI_WINPOS_HPP 
