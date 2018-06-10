@@ -2,5 +2,7 @@
 
 int main()
 {
-    Console
+    using namespace wc;
+
+    ConsoleWindow cw;
 }

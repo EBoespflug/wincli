@@ -10,7 +10,7 @@ namespace wc {
         HANDLE consoleHandle;
 
     public:
-        ConsoleWindow(HANDLE chdl) : consoleHandle{ chdl } {}
+        ConsoleWindow(HANDLE chdl = GetStdHandle(STD_OUTPUT_HANDLE)) : consoleHandle{ chdl } {}
 
     };
 } // namespace wc

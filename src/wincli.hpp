@@ -9,7 +9,8 @@
 #include <windows.h>
 
 #include "colors\wincolor.hpp"
-#include ""
+#include "winpos.hpp"
+#include "ConsoleWindow.h"
 
 namespace wc {
 }
